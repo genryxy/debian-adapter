@@ -109,15 +109,7 @@ SOFTWARE.
     <dependency>
       <groupId>com.artipie</groupId>
       <artifactId>asto</artifactId>
-<<<<<<< HEAD
-<<<<<<< HEAD
       <version>v1.10.0</version>
-=======
-      <version>v1.9.0</version>
->>>>>>> a745bd2... Update parent pom
-=======
-      <version>v1.9.0</version>
->>>>>>> upstream/master
     </dependency>
     <dependency>
       <groupId>com.artipie</groupId>
@@ -190,13 +182,7 @@ SOFTWARE.
       <version>1.8</version>
       <scope>runtime</scope>
     </dependency>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <!-- API of this library is quite unstable. Please, use this one only in the test scope. -->
-=======
->>>>>>> a745bd2... Update parent pom
-=======
->>>>>>> upstream/master
     <dependency>
       <groupId>org.cactoos</groupId>
       <artifactId>cactoos</artifactId>
